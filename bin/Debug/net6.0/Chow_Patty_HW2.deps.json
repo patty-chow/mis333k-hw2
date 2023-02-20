@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chow_Patty_HW2/1.0.0": {
+        "runtime": {
+          "Chow_Patty_HW2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chow_Patty_HW2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
